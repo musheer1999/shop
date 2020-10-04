@@ -1,5 +1,6 @@
 {
   "name": "client",
+  "homepage": "https://musheer1999/github.io/shop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
